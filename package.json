@@ -1,0 +1,26 @@
+{
+  "name": "unbalanced-magic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakaken0629/unbalanced-magic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nakaken0629/unbalanced-magic/issues"
+  },
+  "homepage": "https://github.com/nakaken0629/unbalanced-magic#readme",
+  "devDependencies": {
+    "textlint": "^15.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^12.0.2",
+    "textlint-rule-preset-jtf-style": "^3.0.2"
+  }
+}
